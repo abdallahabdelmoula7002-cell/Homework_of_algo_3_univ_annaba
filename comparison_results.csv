@@ -1,0 +1,23 @@
+algorithm,data_type,size,time_ms,memory_kb,rank
+Bubble Sort,duplicates,1000,3.000,0.00,4
+Selection Sort,duplicates,1000,3.333,0.00,5
+Insertion Sort,duplicates,1000,1.667,0.00,3
+Merge Sort,duplicates,1000,0.333,3.91,1
+Quick Sort,duplicates,1000,0.333,0.00,1
+Bubble Sort,duplicates,5000,96.333,0.00,5
+Selection Sort,duplicates,5000,66.667,0.00,4
+Insertion Sort,duplicates,5000,36.333,0.00,3
+Merge Sort,duplicates,5000,1.333,19.53,1
+Quick Sort,duplicates,5000,2.333,0.00,2
+Bubble Sort,duplicates,10000,349.667,0.00,5
+Selection Sort,duplicates,10000,199.000,0.00,4
+Insertion Sort,duplicates,10000,75.333,0.00,3
+Merge Sort,duplicates,10000,2.667,39.06,1
+Quick Sort,duplicates,10000,6.667,0.00,2
+Bubble Sort,duplicates,50000,11786.333,0.00,5
+Selection Sort,duplicates,50000,4807.000,0.00,4
+Insertion Sort,duplicates,50000,2336.667,0.00,3
+Merge Sort,duplicates,50000,7.333,195.31,1
+Quick Sort,duplicates,50000,113.667,0.00,2
+Merge Sort,duplicates,100000,24.333,390.62,1
+Quick Sort,duplicates,100000,334.667,0.00,2
