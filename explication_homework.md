@@ -173,7 +173,7 @@ The file `comparison_results.csv` contains the table of the last run of option 6
 
 | File | Content |
 |---|---|
-| `main.c` | The whole program: the 5 algorithms, the measurement, the menu and the comparison |
-| `README.md` | This report |
-| `.gitignore` | Files that Git must not upload (compiled programs, editor settings) |
+| `hmw_code` | The whole program: the 5 algorithms, the measurement, the menu and the comparison |
+| `explication_homework` | This report |
+| `.git_ignore` | Files that Git must not upload (compiled programs, editor settings) |
 | `comparison_results.csv` | Results of the last run of option 6 |
